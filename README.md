@@ -12,13 +12,6 @@ CHECK OUT HIS NEW INTERACTIVE PROJECT, MARCH OF THE MICE
  
 ## About the idea
 
-OLD PROJECT, INSPIRED BY TWITCH STREAMER REVSCARECROW AND HIS GAME TOWN OF NOWERE
-
-CAMPAIGN COMPLETE AND AVAILABLE TO WATCH AS VODS
-(he streamed the game entirely manually, I never finished and shared this lol)
-
-CHECK OUT HIS NEW INTERACTIVE PROJECT, MARCH OF THE MICE
-
 RevScarecrow on Twitch had the idea to stream a D&D-like game where he would be the DM, and the audience would colectively play as the PC.
 However, he put together the entire game interface with duct tape , willpower, and OBS.
 I tried putting together a little Forms program as a sketch of my idea of how an actual program for the game would work. Some features are missing, like adding draggable figures to the scene (which was definitely doable, albeit annoying to execute in Forms).
