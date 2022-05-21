@@ -20,4 +20,4 @@ All features in the control panel are working, though some of the visual assets 
 
 UI design isn't mine, I just tried to make it as true to source material as I could, without access to Rev's actual files.
 
-I'd love to eventually flesh this out if Rev or another streamer would like to use it! And I promise it wouldn't be done in Forms. 
+I'd love to eventually flesh this out if Rev or another streamer would like to use it! And I promise it wouldn't be done in Forms. 😭
