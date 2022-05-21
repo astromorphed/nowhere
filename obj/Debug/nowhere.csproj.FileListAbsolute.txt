@@ -1,0 +1,11 @@
+C:\Users\petra\Documents\OOP\nowhere\bin\Debug\nowhere.exe.config
+C:\Users\petra\Documents\OOP\nowhere\bin\Debug\nowhere.exe
+C:\Users\petra\Documents\OOP\nowhere\bin\Debug\nowhere.pdb
+C:\Users\petra\Documents\OOP\nowhere\obj\Debug\nowhere.csprojAssemblyReference.cache
+C:\Users\petra\Documents\OOP\nowhere\obj\Debug\nowhere.Properties.Resources.resources
+C:\Users\petra\Documents\OOP\nowhere\obj\Debug\nowhere.csproj.GenerateResource.cache
+C:\Users\petra\Documents\OOP\nowhere\obj\Debug\nowhere.exe
+C:\Users\petra\Documents\OOP\nowhere\obj\Debug\nowhere.pdb
+C:\Users\petra\Documents\OOP\nowhere\obj\Debug\nowhere.TownOfNowhere.resources
+C:\Users\petra\Documents\OOP\nowhere\obj\Debug\nowhere.controls.resources
+C:\Users\petra\Documents\OOP\nowhere\obj\Debug\nowhere.csproj.CoreCompileInputs.cache
